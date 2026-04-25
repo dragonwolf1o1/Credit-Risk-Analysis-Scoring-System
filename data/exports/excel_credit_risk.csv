@@ -1,0 +1,7 @@
+loan_id,customer_id,full_name,gender,marital_status,employment_status,annual_income,city,state,loan_amount,intrest_rate,loan_terms_month,loan_type,colletral_type,prob_default,risk_band,prediction_date
+1,1,Rohan Sharma,Male,Single,Employed,600000.0,Mumbai,Maharashtra,300000.0,14.5,36,Personal,None,0.3267,High,2025-11-25 11:46:11
+4,1,Rohan Sharma,Male,Single,Employed,600000.0,Mumbai,Maharashtra,200000.0,16.5,24,Personal,None,0.7251,Very High,2025-11-25 11:46:11
+2,2,Priya Verma,Female,Married,Business,1200000.0,Delhi,Delhi,2500000.0,9.25,240,Home,House,0.0398,Low,2025-11-25 11:46:11
+3,3,Amit Singh,Male,Single,Unemployed,200000.0,Lucknow,Uttar Pradesh,150000.0,18.0,24,Personal,None,0.9085,Very High,2025-11-25 11:46:11
+6,4,Rahul Verma,Male,Single,Employed,480000.0,Pune,Maharashtra,150000.0,15.2,24,Personal,None,0.7473,Very High,2025-11-25 12:18:19
+7,5,Neha Shah,Female,Married,Business,900000.0,Ahmedabad,Gujarat,850000.0,12.5,36,Business,Property,0.4502,High,2025-11-25 12:20:29
